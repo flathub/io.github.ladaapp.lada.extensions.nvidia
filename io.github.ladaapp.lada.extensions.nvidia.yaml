@@ -13,5 +13,5 @@ modules:
     sources:
       - type: file
         # todo: switch to tag once we have a new release
-        url: https://codeberg.org/ladaapp/lada/raw/commit/314fc1e6c5fe1cd26d34128fb138e796acd2d7e9/packaging/flatpak/extension_nvidia/io.github.ladaapp.lada.extensions.nvidia.metainfo.xml
+        url: https://codeberg.org/ladaapp/lada/raw/commit/7cfaa2122b65f44a3a1e71dc09209c680874e153/packaging/flatpak/extension_nvidia/io.github.ladaapp.lada.extensions.nvidia.metainfo.xml
         sha256: ad18d69ebc67fa755ea3646e9861a0de78fd42ea4a5f0081eab94fdc065e0c1f
