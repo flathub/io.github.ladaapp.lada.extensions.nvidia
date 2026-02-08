@@ -1,6 +1,6 @@
 id: io.github.ladaapp.lada.extensions.nvidia
 runtime: io.github.ladaapp.lada
-runtime-version: 'beta'
+runtime-version: 'stable'
 sdk: org.gnome.Sdk//49
 build-extension: true
 separate-locales: false
