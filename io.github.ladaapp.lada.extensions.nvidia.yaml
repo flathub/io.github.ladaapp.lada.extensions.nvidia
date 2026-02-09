@@ -12,6 +12,5 @@ modules:
       - install -Dm644 ${FLATPAK_ID}.metainfo.xml -t ${FLATPAK_DEST}/share/metainfo
     sources:
       - type: file
-        # todo: switch to tag once we have a new release
-        url: https://codeberg.org/ladaapp/lada/raw/commit/c340f7d8dfde4fd60b857927633b296c5271238/packaging/flatpak/extension_nvidia/io.github.ladaapp.lada.extensions.nvidia.metainfo.xml
+        url: https://codeberg.org/ladaapp/lada/raw/tag/v0.11.0/packaging/flatpak/extension_nvidia/io.github.ladaapp.lada.extensions.nvidia.metainfo.xml
         sha256: ad18d69ebc67fa755ea3646e9861a0de78fd42ea4a5f0081eab94fdc065e0c1f
